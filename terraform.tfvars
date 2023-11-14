@@ -1,0 +1,5 @@
+vsphere_user     = "user"
+vsphere_password = "password"
+ssh_user         = "ssh_user"
+ssh_password     = "ssh_password"
+ssh_port         = "22"
